@@ -1,0 +1,46 @@
+{
+  "tracker": [
+    {
+      "id": "bfe5",
+      "SkillName": "HTML",
+      "progress": "80",
+      "Category": "Front-End",
+      "Status": "done"
+    },
+    {
+      "id": "f274",
+      "SkillName": "css",
+      "progress": "100",
+      "Category": "frontnen",
+      "Status": "done"
+    },
+    {
+      "SkillName": "bootstrap",
+      "progress": "100",
+      "Category": "frontend",
+      "Status": "done",
+      "id": "e0a8"
+    },
+    {
+      "SkillName": "mongoDb",
+      "progress": "40",
+      "Category": "backend",
+      "Status": "learning",
+      "id": "e4f9"
+    },
+    {
+      "id": "dcb0",
+      "SkillName": "tailwind css",
+      "progress": "70",
+      "Category": "design",
+      "Status": "learning"
+    },
+    {
+      "id": "5987",
+      "SkillName": "react",
+      "progress": "90",
+      "Category": "frontend",
+      "Status": "learning"
+    }
+  ]
+}
